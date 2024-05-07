@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MysticPartyTracker.View.DiceView"
+             Title="DiceView">
+    <VerticalStackLayout
+        Padding="30,0"
+        Spacing="25" 
+        HorizontalOptions="Center">
+        <Picker
+            x:Name="DicePicker" SelectedItem="{Binding Quantity}"
+            Title="Quantidade de dados">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:Int32}">
+                <x:Int32>1</x:Int32>
+                <x:Int32>2</x:Int32>
+                <x:Int32>3</x:Int32>
+                <x:Int32>4</x:Int32>
+                <x:Int32>5</x:Int32>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Label 
+            Text="Escolha o número de lados do dado"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Picker
+            x:Name="SidePicker" SelectedItem="{Binding Sides}"
+            Title="Quantidade de lados">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:Int32}">
+                <x:Int32>2</x:Int32>
+                <x:Int32>4</x:Int32>
+                <x:Int32>6</x:Int32>
+                <x:Int32>8</x:Int32>
+                <x:Int32>10</x:Int32>
+                <x:Int32>12</x:Int32>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Button
+            x:Name="DiceBtn"
+            Text="Rolar dados"
+            Command="{Binding RollCommand}"
+            HorizontalOptions="Fill" 
+            BackgroundColor="Black"
+        />
+
+        <Label Text="{Binding Total}"
+            FontSize="Large"                   
+             x:Name="DiceResult" 
+        />
+
+        <CollectionView ItemsSource="{Binding Rolls}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout>
+                        <Label Text="{Binding}"/>
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
+
+
+    </VerticalStackLayout>
+    
+</ContentPage>

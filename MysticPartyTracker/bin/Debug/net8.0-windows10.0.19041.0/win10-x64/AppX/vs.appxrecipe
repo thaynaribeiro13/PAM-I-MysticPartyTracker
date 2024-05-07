@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-23T01:37:12.713</Modified>
+      <Modified>2024-05-07T01:20:22.161</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-23T01:26:00.211</Modified>
+      <Modified>2024-05-07T00:36:30.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.runtimeconfig.json">
       <PackagePath>MysticPartyTracker.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.dll">
       <PackagePath>MysticPartyTracker.dll</PackagePath>
-      <Modified>2024-04-23T01:37:12.416</Modified>
+      <Modified>2024-05-07T01:20:21.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MysticPartyTracker.exe</PackagePath>
-      <Modified>2024-04-23T01:37:12.430</Modified>
+      <Modified>2024-05-07T01:20:21.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.deps.json">
       <PackagePath>MysticPartyTracker.deps.json</PackagePath>
-      <Modified>2024-04-23T01:25:59.930</Modified>
+      <Modified>2024-05-07T00:36:30.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

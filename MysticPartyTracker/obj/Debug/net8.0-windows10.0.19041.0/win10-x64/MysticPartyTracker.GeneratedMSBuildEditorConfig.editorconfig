@@ -42,8 +42,14 @@ build_metadata.AdditionalFiles.ManifestResourceName = MysticPartyTracker.Resourc
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/TEJ/PAM/MysticPartyTracker/MysticPartyTracker/View/DiceView.xaml]
+[D:/TEJ/PAM/MysticPartyTracker/MysticPartyTracker/Views/CharacterView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MysticPartyTracker.View.DiceView.xaml
-build_metadata.AdditionalFiles.TargetPath = View\DiceView.xaml
-build_metadata.AdditionalFiles.RelativePath = View\DiceView.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MysticPartyTracker.Views.CharacterView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CharacterView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CharacterView.xaml
+
+[D:/TEJ/PAM/MysticPartyTracker/MysticPartyTracker/Views/DiceView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MysticPartyTracker.Views.DiceView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DiceView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DiceView.xaml

@@ -6,7 +6,10 @@
     <ActiveDebugProfile>Windows Machine</ActiveDebugProfile>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="View\DiceView.xaml">
+    <MauiXaml Update="Views\CharacterView.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views\DiceView.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
