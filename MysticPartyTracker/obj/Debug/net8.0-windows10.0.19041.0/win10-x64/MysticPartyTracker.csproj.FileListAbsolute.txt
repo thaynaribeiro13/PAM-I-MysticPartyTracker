@@ -153,6 +153,7 @@ D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.AssemblyInfoInputs.cache
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.AssemblyInfo.cs
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.csproj.CoreCompileInputs.cache
+D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.sourcelink.json
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.csproj.CopyComplete
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.dll
@@ -176,4 +177,3 @@ D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.sourcelink.json

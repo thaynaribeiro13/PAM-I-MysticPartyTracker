@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-07T01:20:22.161</Modified>
+      <Modified>2024-05-14T01:47:50.762</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-07T00:36:30.427</Modified>
+      <Modified>2024-05-14T01:43:56.001</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.runtimeconfig.json">
       <PackagePath>MysticPartyTracker.runtimeconfig.json</PackagePath>
-      <Modified>2024-04-22T23:30:31.697</Modified>
+      <Modified>2024-05-13T23:38:10.280</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.dll">
       <PackagePath>MysticPartyTracker.dll</PackagePath>
-      <Modified>2024-05-07T01:20:21.871</Modified>
+      <Modified>2024-05-14T01:47:50.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MysticPartyTracker.exe</PackagePath>
-      <Modified>2024-05-07T01:20:21.874</Modified>
+      <Modified>2024-05-14T01:47:50.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.717</Modified>
+      <Modified>2024-05-13T22:48:52.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.733</Modified>
+      <Modified>2024-05-13T22:48:52.255</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.749</Modified>
+      <Modified>2024-05-13T22:48:52.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.780</Modified>
+      <Modified>2024-05-13T22:48:52.304</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.905</Modified>
+      <Modified>2024-05-13T22:48:52.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -84,211 +84,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-04-22T22:42:33.967</Modified>
+      <Modified>2024-05-13T22:48:52.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.389</Modified>
+      <Modified>2024-05-13T22:48:52.884</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.421</Modified>
+      <Modified>2024-05-13T22:48:52.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.452</Modified>
+      <Modified>2024-05-13T22:48:52.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.483</Modified>
+      <Modified>2024-05-13T22:48:52.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.608</Modified>
+      <Modified>2024-05-13T22:48:53.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.077</Modified>
+      <Modified>2024-05-13T22:48:52.583</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.092</Modified>
+      <Modified>2024-05-13T22:48:52.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.108</Modified>
+      <Modified>2024-05-13T22:48:52.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.092</Modified>
+      <Modified>2024-05-13T22:48:52.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.092</Modified>
+      <Modified>2024-05-13T22:48:52.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.046</Modified>
+      <Modified>2024-05-13T22:48:52.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.061</Modified>
+      <Modified>2024-05-13T22:48:52.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.077</Modified>
+      <Modified>2024-05-13T22:48:52.579</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.061</Modified>
+      <Modified>2024-05-13T22:48:52.561</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.061</Modified>
+      <Modified>2024-05-13T22:48:52.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.983</Modified>
+      <Modified>2024-05-13T22:48:52.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.983</Modified>
+      <Modified>2024-05-13T22:48:52.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.999</Modified>
+      <Modified>2024-05-13T22:48:52.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.999</Modified>
+      <Modified>2024-05-13T22:48:52.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.014</Modified>
+      <Modified>2024-05-13T22:48:52.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.014</Modified>
+      <Modified>2024-05-13T22:48:52.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.014</Modified>
+      <Modified>2024-05-13T22:48:52.526</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.046</Modified>
+      <Modified>2024-05-13T22:48:52.547</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.030</Modified>
+      <Modified>2024-05-13T22:48:52.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.030</Modified>
+      <Modified>2024-05-13T22:48:52.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.186</Modified>
+      <Modified>2024-05-13T22:48:52.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.202</Modified>
+      <Modified>2024-05-13T22:48:52.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.202</Modified>
+      <Modified>2024-05-13T22:48:52.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.217</Modified>
+      <Modified>2024-05-13T22:48:52.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.249</Modified>
+      <Modified>2024-05-13T22:48:52.751</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.155</Modified>
+      <Modified>2024-05-13T22:48:52.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.155</Modified>
+      <Modified>2024-05-13T22:48:52.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.155</Modified>
+      <Modified>2024-05-13T22:48:52.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.171</Modified>
+      <Modified>2024-05-13T22:48:52.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.186</Modified>
+      <Modified>2024-05-13T22:48:52.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.124</Modified>
+      <Modified>2024-05-13T22:48:52.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.124</Modified>
+      <Modified>2024-05-13T22:48:52.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.124</Modified>
+      <Modified>2024-05-13T22:48:52.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.139</Modified>
+      <Modified>2024-05-13T22:48:52.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.139</Modified>
+      <Modified>2024-05-13T22:48:52.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.264</Modified>
+      <Modified>2024-05-13T22:48:52.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.280</Modified>
+      <Modified>2024-05-13T22:48:52.773</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.296</Modified>
+      <Modified>2024-05-13T22:48:52.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.311</Modified>
+      <Modified>2024-05-13T22:48:52.809</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.374</Modified>
+      <Modified>2024-05-13T22:48:52.869</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.967</Modified>
+      <Modified>2024-05-13T22:48:52.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.983</Modified>
+      <Modified>2024-05-13T22:48:52.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-04-22T22:42:33.999</Modified>
+      <Modified>2024-05-13T22:48:52.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.014</Modified>
+      <Modified>2024-05-13T22:48:52.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-04-22T22:42:34.077</Modified>
+      <Modified>2024-05-13T22:48:52.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\TEJ\PAM\MysticPartyTracker\MysticPartyTracker\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MysticPartyTracker.deps.json">
       <PackagePath>MysticPartyTracker.deps.json</PackagePath>
-      <Modified>2024-05-07T00:36:30.384</Modified>
+      <Modified>2024-05-13T23:38:10.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

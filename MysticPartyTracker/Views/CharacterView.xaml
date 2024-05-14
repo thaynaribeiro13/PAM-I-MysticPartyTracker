@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MysticPartyTracker.View.CharacterView"
              Title="CharacterView">
+    <ScrollView>
     <VerticalStackLayout
         HorizontalOptions="Center">
 
@@ -13,6 +14,7 @@
         <Entry 
             Margin="10"
             x:Name="nomePersonagem"
+            Text="{Binding NomePersonagem}"
             Placeholder="Digite o nome desejado"
             ClearButtonVisibility="WhileEditing" />
 
@@ -23,6 +25,7 @@
             FontSize="Medium" />
         <Picker
             x:Name="ClassPicker"
+            SelectedItem="{Binding ClassePersonagem}"
             Margin="10">
             <Picker.Items>
                 <x:String>Cavaleiro</x:String>
@@ -41,6 +44,7 @@
             FontSize="Medium" />
         <Picker
             x:Name="RacePicker"
+            SelectedItem="{Binding RacaPersonagem}"
             Margin="10">
             <Picker.Items>
                 <x:String>Vampiro</x:String>
@@ -49,6 +53,7 @@
                 <x:String>Elfo</x:String>
                 <x:String>ET</x:String>
                 <x:String>Híbrido</x:String>
+                <x:String>Humano</x:String>
             </Picker.Items>
         </Picker>
 
@@ -59,6 +64,7 @@
         <Entry
             Margin="10"
             x:Name="nivelPersonagem"
+            Text="{Binding NivelPersonagem}"
             ClearButtonVisibility="WhileEditing"
             HorizontalOptions="Start" />
 
@@ -66,8 +72,30 @@
             x:Name="CreateBtn"
             Text="Criar personagem"
             HorizontalOptions="Fill" 
+            Command="{Binding CriarCommand}"
             BackgroundColor="Black"
             Margin="0,15,0,0"/>
 
+        <Label Text="{Binding Criar}"
+            FontSize="Large"                   
+            x:Name="PersonagemResult" 
+        />
+
+        <CollectionView ItemsSource="{Binding Characters}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                        <Frame>
+                            <VerticalStackLayout>
+                                <Label Text="{Binding NomePersonagem}"/>
+                                <Label Text="{Binding ClassePersonagem}"/>
+                                <Label Text="{Binding RacaPersonagem}"/>
+                                <Label Text="{Binding NivelPersonagem}"/>
+                            </VerticalStackLayout>
+                        </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
     </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

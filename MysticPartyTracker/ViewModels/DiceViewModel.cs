@@ -31,14 +31,14 @@ namespace MysticPartyTracker.ViewModel
         public void Roll()
         {
             Rolls.Clear();
-            Total = 0;
-            Dice dice = new Dice(Sides);
+            _total = 0;
+            Dice dice = new Dice(_sides);
 
-            for (int i = 0; i < Quantity; i++)
+            for (int i = 0; i < _quantity; i++)
             {
                 int roll = dice.Roll();
                 Rolls.Add(roll);
-                Total += roll;
+                _total += roll;
             }
 
         }
