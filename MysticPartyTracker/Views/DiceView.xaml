@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MysticPartyTracker.View.DiceView"
+             x:Class="MysticPartyTracker.Views.DiceView"
              Title="DiceView">
-    <VerticalStackLayout>
+    <ScrollView>
+    <VerticalStackLayout HorizontalOptions="Center" Spacing="10">
         <Label 
-            Text="Selecione a quantidade de dados"
-            />
-        <Picker x:Name="QuantityPicker">
+            Text="Selecione a quantidade de dados"/>
+        <Picker x:Name="QuantityPicker" SelectedItem="{Binding Quantity}" >
             <Picker.ItemsSource>
                 <x:Array Type="{x:Type x:Int32}">
                     <x:Int32>1</x:Int32>
@@ -29,7 +29,7 @@
         </Picker>
 
         <Label Text="Selecione a quantidade de lado dos dados" />
-        <Picker x:Name="SidesPicker">
+        <Picker x:Name="SidesPicker" SelectedItem="{Binding NumberSides}">
             <Picker.ItemsSource>
                 <x:Array Type="{x:Type x:Int32}">
                     <x:Int32>4</x:Int32>
@@ -45,16 +45,21 @@
             x:Name="RollBtn"
             Text="Rodar"
             AutomationProperties.Name="Rodar os dados"
-            Clicked="RollBtn_Clicked"
-            />
-
-        <Label Text="" x:Name="AllDicesResultLabel" />
-
-        <Label
-            x:Name="RandomNumber" Text=""/>
-
+            Command="{Binding RollCommand}"/>
         <Label
             x:Name="resultString"
-            Text=""/>
-    </VerticalStackLayout>
+            Text="{Binding Total}"
+            FontSize="Large"/>
+
+            <CollectionView ItemsSource="{Binding Rolls}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <VerticalStackLayout>
+                            <Label Text="{Binding}"/>
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

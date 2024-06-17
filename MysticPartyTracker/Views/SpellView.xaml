@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MysticPartyTracker.Views.SpellView"
+             Title="SpellView">
+    <VerticalStackLayout>
+    <ScrollView>
+        
+    <VerticalStackLayout>
+    <CollectionView ItemsSource="{Binding Spell}" EmptyView="Sem Dados">
+    <CollectionView.ItemTemplate>
+    <DataTemplate>
+    <VerticalStackLayout>
+
+    <HorizontalStackLayout>
+    <Label 
+    Text="Index" />
+    <Label Text="{Binding Index}" />
+    </HorizontalStackLayout>
+    
+    <HorizontalStackLayout>
+    <Label 
+    Text="Name" />
+    <Label Text="{Binding Name}" />
+    </HorizontalStackLayout>
+   
+    <HorizontalStackLayout>
+    <Label 
+    Text="Level" />
+    <Label Text="{Binding Level}" />
+    </HorizontalStackLayout>
+        
+    <HorizontalStackLayout>
+    <Label 
+    Text="Url" />
+    <Label Text="{Binding Url}" />
+    </HorizontalStackLayout>
+               
+    </VerticalStackLayout>
+    </DataTemplate>
+    </CollectionView.ItemTemplate>
+    </CollectionView>
+
+    <Button Text="Buscar tipo de mágia"
+    Command="{Binding FindMagicAsyncCommand}"
+    BackgroundColor="Purple"   
+    x:Name="MagicBtn"/>
+        
+    </VerticalStackLayout>
+    </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>
